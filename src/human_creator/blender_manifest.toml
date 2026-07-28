@@ -1,1 +1,22 @@
+schema_version = "1.0.0"
 
+# Unique identifier for the Blender Extensions system
+id = "human_creator"
+version = "0.1.0"
+name = "Human Creator"
+tagline = "Parametric Full-Body Character Engine powered by SOMA-X"
+maintainer = "MeScript Labs"
+
+type = "add-on"
+
+# Minimum Blender version required for Extensions API
+blender_version_min = "4.2.0"
+
+license = [
+    "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["Rigging", "3D View", "Character"]
+
+# Optional links
+website = "https://github.com/YOUR_GITHUB_USERNAME/human-creator"
