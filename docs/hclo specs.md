@@ -6,8 +6,8 @@ The `.hclo` format is an open JSON/YAML specification designed to decouple 3D ga
 
 ## 1. Structural Overview
 
-An `.hclo` asset package consists of two primary elements:
-1. **Geometry Mesh (`.obj` or `.blend` asset)**: The base 3D garment topology fitted to the SOMA-X canonical rest pose.
+An `.hclo` asset package consists of two primary elements
+1. **Geometry Mesh (`.obj` or asset)**: The base 3D garment topology fitted to the SOMA-X canonical rest pose.
 2. **Configuration File (`.hclo`)**: The structural mapping metadata linking garment vertices to base human body vertex indices.
 
 ---
