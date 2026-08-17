@@ -69,14 +69,14 @@ The UI panel offers a clean, minimalist presentation while preserving hyper-gran
 
 ---
 
-## 📜 Licensing & Funding
+## 📜 Licensing
 
 Human Creator is fully open-source and released under the **GNU General Public License v3 (GPL v3)** to align with the Blender ecosystem.
 
 ### 💳 Official Web3 Grant & Wallet Addresses
 
 * **EVM Address (Arbitrum / Optimism / Base / Polygon / ETH):**
-  `0xYOUR_METAMASK_WALLET_ADDRESS_HERE`
+  `0xFE91250Df713De395Ed43a793794d27E8B3EDe90`
 
 * **Supported Payout Tokens:**
   USDC, USDT, ARB, OP
